@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "B9zJ16p+a9OGM7MoKXt3dB/9dl2231CaNUA3GfMAmxbpQmCkwqipQ+oHzZbAGZck35bylbewoubiuc09n8B38Q==",
+  "success": true,
+  "projectFilePath": "/Users/rasmust/Projects/Week2/UserAgeValidation/UserGenderValidation.csproj",
+  "expectedPackageFiles": [
+    "/Users/rasmust/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/rasmust/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/rasmust/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

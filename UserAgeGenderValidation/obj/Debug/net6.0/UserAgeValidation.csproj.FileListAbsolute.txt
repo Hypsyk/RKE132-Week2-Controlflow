@@ -1,0 +1,15 @@
+/Users/rasmust/Projects/Week2/UserAgeValidation/bin/Debug/net6.0/UserAgeValidation
+/Users/rasmust/Projects/Week2/UserAgeValidation/bin/Debug/net6.0/UserAgeValidation.deps.json
+/Users/rasmust/Projects/Week2/UserAgeValidation/bin/Debug/net6.0/UserAgeValidation.runtimeconfig.json
+/Users/rasmust/Projects/Week2/UserAgeValidation/bin/Debug/net6.0/UserAgeValidation.dll
+/Users/rasmust/Projects/Week2/UserAgeValidation/bin/Debug/net6.0/UserAgeValidation.pdb
+/Users/rasmust/Projects/Week2/UserAgeValidation/obj/Debug/net6.0/UserAgeValidation.csproj.AssemblyReference.cache
+/Users/rasmust/Projects/Week2/UserAgeValidation/obj/Debug/net6.0/UserAgeValidation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rasmust/Projects/Week2/UserAgeValidation/obj/Debug/net6.0/UserAgeValidation.AssemblyInfoInputs.cache
+/Users/rasmust/Projects/Week2/UserAgeValidation/obj/Debug/net6.0/UserAgeValidation.AssemblyInfo.cs
+/Users/rasmust/Projects/Week2/UserAgeValidation/obj/Debug/net6.0/UserAgeValidation.csproj.CoreCompileInputs.cache
+/Users/rasmust/Projects/Week2/UserAgeValidation/obj/Debug/net6.0/UserAgeValidation.dll
+/Users/rasmust/Projects/Week2/UserAgeValidation/obj/Debug/net6.0/refint/UserAgeValidation.dll
+/Users/rasmust/Projects/Week2/UserAgeValidation/obj/Debug/net6.0/UserAgeValidation.pdb
+/Users/rasmust/Projects/Week2/UserAgeValidation/obj/Debug/net6.0/UserAgeValidation.genruntimeconfig.cache
+/Users/rasmust/Projects/Week2/UserAgeValidation/obj/Debug/net6.0/ref/UserAgeValidation.dll
